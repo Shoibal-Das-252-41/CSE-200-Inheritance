@@ -1,0 +1,13 @@
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csprojAssemblyReference.cache
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+E:\Tutorial\Visual C# Code\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache
